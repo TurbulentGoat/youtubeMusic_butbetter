@@ -17,6 +17,12 @@ A userscript that enhances YouTube Music's interface by improving button visibil
 2. Copy the contents of `ytmusic.js` and create a new userscript
 3. The script will automatically run on YouTube Music pages (will need to refresh the page if already open!)
 
+OR
+
+Click the RAW button and it will automatically load it in a new tab in whichever userscript editor you have installed.  
+<img width="105" height="63" alt="image" src="https://github.com/user-attachments/assets/256c3755-e2b0-4dc1-849e-9c226a851928" />
+
+
 ## Files
 
 - `userscript.js` - Main userscript with CSS injection and title modification
