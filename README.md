@@ -8,6 +8,9 @@ A userscript that enhances YouTube Music's interface by improving button visibil
 - Modifies the page title to "A Slightly Shitter Spotify"
 - Adjusts content width and layout properties
 
+  <img width="843" height="74" alt="image" src="https://github.com/user-attachments/assets/8ffadac7-2c88-496d-9797-da564d54368f" />
+
+
 ## Installation
 
 1. Install a userscript manager like Tampermonkey or Greasemonkey in your browser
