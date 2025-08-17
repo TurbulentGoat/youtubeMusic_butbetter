@@ -33,4 +33,6 @@ Once installed, the script automatically:
 
 No manual configuration required.
 
-<img width="293" height="352" alt="image" src="https://github.com/user-attachments/assets/9d21c047-b93f-4eea-bd10-1836817287a0" />
+<div align="center">
+  <img width="293" height="352" alt="image" src="https://github.com/user-attachments/assets/9d21c047-b93f-4eea-bd10-1836817287a0" />
+</div>
